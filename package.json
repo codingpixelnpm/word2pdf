@@ -1,0 +1,51 @@
+{
+  "_args": [
+    [
+      "word2pdf@1.0.8",
+      "C:\\Users\\Coding Pixel Manan\\Downloads\\Microsoft.SkypeApp_kzf8qxf38zg5c!App\\All\\ServerCode\\server"
+    ]
+  ],
+  "_from": "word2pdf@1.0.8",
+  "_id": "word2pdf@1.0.8",
+  "_inBundle": false,
+  "_integrity": "sha512-QsEaKMglh2BeJF8k6tu/MSEnXn8sck3l183TQxqJVelX3jPr8WNdS9sxt9F0/Oc12g01jJJ/0kVJ8Vde+HxX5g==",
+  "_location": "/word2pdf",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "word2pdf@1.0.8",
+    "name": "word2pdf",
+    "escapedName": "word2pdf",
+    "rawSpec": "1.0.8",
+    "saveSpec": null,
+    "fetchSpec": "1.0.8"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/word2pdf/-/word2pdf-1.0.8.tgz",
+  "_spec": "1.0.8",
+  "_where": "C:\\Users\\Coding Pixel Manan\\Downloads\\Microsoft.SkypeApp_kzf8qxf38zg5c!App\\All\\ServerCode\\server",
+  "author": {
+    "name": "Vuong Vu",
+    "email": "vuongvu333@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/VuongVu/word2pdf/issues"
+  },
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "description": "Convert doc, docx to pdf",
+  "homepage": "https://github.com/VuongVu/word2pdf#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "word2pdf",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VuongVu/word2pdf.git"
+  },
+  "version": "1.0.8"
+}
